@@ -4,11 +4,13 @@
   "description": "ebe-bot",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys"
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "mysql": "^2.18.1"
   }
 }
