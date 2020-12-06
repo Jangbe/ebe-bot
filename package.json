@@ -1,0 +1,14 @@
+{
+  "name": "ebe-bot",
+  "version": "1.0.0",
+  "description": "ebe-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "github:adiwajshing/baileys"
+  }
+}
