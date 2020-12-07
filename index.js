@@ -1,6 +1,6 @@
 const fs = require('fs');
 const qrcode = require('qrcode-terminal');
-const connect = require('./database/config');
+const connect = require('./basisdata/config');
 const font = require('./text');
 const {
     WAConnection,
