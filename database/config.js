@@ -2,7 +2,7 @@ var db = require('mysql');
 var connect = db.createConnection({
     host: "localhost",
     user: "root",
-    password: "",
+    password: "root",
     database: "bot_wa"
 });
 
